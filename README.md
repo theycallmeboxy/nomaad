@@ -39,19 +39,18 @@ I have made with FDM and CNC aluminum to good effect.  Another 40s member had a 
 **Additional materials:**
  
   - O-ring cord [such as these]()
-    
-   - 4 SKUF feet like these  [like these](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
+  - 4 SKUF feet like these  [like these](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
   
- 1. Apply feet to the cutouts.
- 2. Install stabs if you're into that. 
- 3. Install switches into the plate and PCB.
- 4. Solder it up.
- 5. Friction fit the o-ring cord between the plate and PCB in the positions highlighted in red:
+1. Apply feet to the cutouts.
+2. Install stabs if you're into that. 
+3. Install switches into the plate and PCB.
+4. Solder it up.
+5. Friction fit the o-ring cord between the plate and PCB in the positions highlighted in red:
 
-<img src="https://github.com/theycallmeboxy/nomaad/blob/main/img/nomaad-cord-path.jpg" alt="keyborb" width="600"/>
+<img src="https://github.com/theycallmeboxy/nomaad/blob/main/img/nomaad-cord-path.png" alt="keyborb" width="600"/>
 
 <img src="https://github.com/theycallmeboxy/nomaad/blob/main/img/nomaad-cord-friction-fit.jpg" alt="keyborb" height="600"/>
 
-6. Insert the PCB number keys first at an angle, aligning the USB port
+6. Insert the assembled PCB number keys first into the case at an angle while aligning the USB port with the cutout
 7. Press the top of the PCB in place, then press in the bottom side
 8. If you need to remove the PCB, pull a few caps off and use a switch puller on the soldered switches
