@@ -40,7 +40,9 @@ I have made with FDM and CNC aluminum to good effect.  Another 40s member had a 
  
   - O-ring cord [such as these]()
   - 4 SKUF feet like these  [like these](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
-  
+
+**Build instructions:**
+
 1. Apply feet to the cutouts.
 2. Install stabs if you're into that. 
 3. Install switches into the plate and PCB.
