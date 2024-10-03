@@ -22,7 +22,7 @@ Plate:
 - [Alpha stagger plate .dxf file]()
 
 PCB:
-> [!INFO]
+> [!NOTE]
 > Version 1 was produced (as prototype 1) without any identified issues.  The gerbers were regenerated to indicate version 1 on the silk and the bom and positions files should be fixed to order as-is.  I have not produced these files yet, but they should be good to go.
 
 - [PCB gerbers .zip file]()
