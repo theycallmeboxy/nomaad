@@ -52,9 +52,9 @@ I have made with FDM and CNC aluminum to good effect.  Another 40s member had a 
 4. Solder it up.
 5. Friction fit the o-ring cord between the plate and PCB in the positions highlighted in red:
 
-<img src="https://github.com/theycallmeboxy/nomaad/blob/main/img/nomaad-cord-path.png" alt="keyborb" width="600"/>
-
 <img src="https://github.com/theycallmeboxy/nomaad/blob/main/img/nomaad-cord-friction-fit.jpg" alt="keyborb" height="600"/>
+
+<img src="https://github.com/theycallmeboxy/nomaad/blob/main/img/nomaad-cord-path.png" alt="keyborb" width="600"/>
 
 6. Insert the assembled PCB number keys first into the case at an angle while aligning the USB port with the cutout
 7. Press the top of the PCB in place, then press in the bottom side
