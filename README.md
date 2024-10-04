@@ -56,6 +56,6 @@ I have made with FDM and CNC aluminum to good effect.  Another 40s member had a 
 
 <img src="https://github.com/theycallmeboxy/nomaad/blob/main/img/nomaad-cord-path.png" alt="keyborb" width="600"/>
 
-6. Insert the assembled PCB number keys first into the case at an angle while aligning the USB port with the cutout
-7. Press the top of the PCB in place, then press in the bottom side
-8. If you need to remove the PCB, pull a few caps off and use a switch puller on the soldered switches
+6. Insert the assembled PCB number keys first into the case at an angle while aligning the USB port with the cutout.
+7. Press the top of the PCB in place, then press in the bottom side (if your cord isn't fully seated, sticks out on the corners, or otherwise catches going in, grab some tweezers and help it stay in between the plate and PCB). 
+8. If you need to remove the PCB, pull a few caps off and use a switch puller on the soldered switches.
