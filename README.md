@@ -14,23 +14,23 @@
 > **I'm not a doctor. This is not medical advice. I'm also only a network engineer. You assume all liability in using or reproducing these files.**
 
 Case:
-- [Case .stl file]()
-- [Case .step file]()
+- [Case .stl file](https://github.com/theycallmeboxy/nomaad/blob/main/models/case/nomaad-case.stl)
+- [Case .step file](https://github.com/theycallmeboxy/nomaad/blob/main/models/case/nomaad-case.step)
 
 Plate:
-- [Ortho stagger plate .dxf file]()
-- [Alpha stagger plate .dxf file]()
+- [Ortho stagger plate .dxf file](https://github.com/theycallmeboxy/nomaad/blob/main/models/plate/nomaad-plate_ortho.dxf)
+- [Alpha stagger plate .dxf file](https://github.com/theycallmeboxy/nomaad/blob/main/models/plate/nomaad-plate_alpha.dxf)
 
 PCB:
 > [!NOTE]
 > Version 1 was produced (as prototype 1) without any identified issues.  The gerbers were regenerated to indicate version 1 on the silk and the bom and positions files should be fixed to order as-is.  I have not produced these files yet, but they should be good to go.
 
-- [PCB gerbers .zip file]()
-- [BOM .csv file]()
-- [Positions .csv file]()
+- [PCB gerbers .zip file](https://github.com/theycallmeboxy/nomaad/blob/main/pcb/nomaad%20v1/production/nomaad.zip)
+- [BOM .csv file](https://github.com/theycallmeboxy/nomaad/blob/main/pcb/nomaad%20v1/production/bom.csv)
+- [Positions .csv file](https://github.com/theycallmeboxy/nomaad/blob/main/pcb/nomaad%20v1/production/positions.csv)
 
 Firmware:
-- [VIAL Firmware .bin file]()
+- [VIAL Firmware .bin file](https://github.com/theycallmeboxy/nomaad/blob/main/firmware/vial/binary/boxy_nomaad_vial.bin)
   
 ## Build Notes:
 
@@ -38,8 +38,8 @@ I have made with FDM and CNC aluminum to good effect.  Another 40s member had a 
 
 **Additional materials:**
  
-  - O-ring cord [such as these]()
-  - 4 SKUF feet like these  [like these](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
+  - About 18" of .139" (3.53mm) diameter o-ring cord [like this 50A cord](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=117_527&products_id=18618) or [this 70A cord](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=117_119&products_id=5058); if you don't want to buy bulk cord, you can cut up an o-ring of like 6" or bigger diameter.
+  - 4 SKUF feet like these  [like these](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet).
 
 **Build instructions:**
 
