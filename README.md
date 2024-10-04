@@ -9,7 +9,7 @@
 
 ## Production Files:
 
-*(Click a link then click the raw or download link in the top right to download a given file.)*
+*(Click a link then click download icon in the top right to save a given file to your computer.)*
 
 > [!CAUTION]
 > I will assume no responsibility for any cost, damage, or sads resulting from trying to make one of my dumb projects. This project has no implicit support, neither moral nor technical.
