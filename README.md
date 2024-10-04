@@ -41,7 +41,7 @@ I have made with FDM and CNC aluminum to good effect.  Another 40s member had a 
 
 **Additional materials:**
  
-  - About 18" of .139" (3.53mm) diameter o-ring cord [like this 50A cord](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=117_527&products_id=18618) or [this 70A cord](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=117_119&products_id=5058); if you don't want to buy bulk cord, you can cut up an o-ring of like 6" or bigger diameter.
+  - About 18" of .139" (3.53mm) cross section o-ring cord [like this 50A cord](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=117_527&products_id=18618) or [this 70A cord](https://www.theoringstore.com/store/index.php?main_page=product_info&cPath=117_119&products_id=5058); if you don't want to buy bulk cord, you can cut up an o-ring of like 6" or bigger diameter.
   - 4 SKUF feet like these  [like these](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet).
 
 **Build instructions:**
